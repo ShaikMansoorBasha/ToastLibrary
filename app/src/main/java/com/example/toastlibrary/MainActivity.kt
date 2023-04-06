@@ -2,7 +2,7 @@ package com.example.toastlibrary
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.mylibrary.ToasterMessage
+import com.example.mysdk.ToasterMessage
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
